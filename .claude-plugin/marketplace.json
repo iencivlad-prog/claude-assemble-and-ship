@@ -1,0 +1,1 @@
+{ "name": "vlad-marketplace", "owner": { "name": "Vlad" }, "plugins": [ { "name": "vlad-review-kit", "source": "./", "description": "Summarize branch changes and review recent code" } ] }
